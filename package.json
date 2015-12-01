@@ -1,11 +1,15 @@
 {
   "name": "node-s3tc",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Decompresses texture data compressed with DXT1, DXT3 or DXT5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jangxx",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangxx/node-s3tc.git"
+  },
 }
